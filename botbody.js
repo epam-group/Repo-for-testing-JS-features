@@ -19,7 +19,7 @@ bot.on(`message`, msg => {
         msg.reply(`https://www.yummyclub.com/milosjke`);
         }
     });
-bot.on(`message`, msg => {
+    bot.on(`message`, msg => {
         if (msg.content === `vk`) {
             msg.reply(`https://vk.com/milosj`);
          }
@@ -34,3 +34,18 @@ bot.on(`message`, msg => {
             msg.reply(`https://www.boosty.to/milosj`);
         }
      });
+bot.on(`message`, msg => {
+        if (msg.content === `pic`){
+            msg.reply(`https:pinterest.com`)
+        }
+    });
+ServiceWorker.console(`crashdebug`, alert => {
+    if (alert.content === `505`) {
+        console.debug(RTCPeerConnection)
+        }
+    });
+ClientRect.call(`crashconfig`, AnalyserNode => {
+    if (webkitConvertPointFromNodeToPage,false) RTCPeerConnection(true) ;{
+        debug(sessionStorage = RTCSsrcConflictEvent)
+    }
+});
